@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6329d9bec8b08378fae01ae9"
+  },
+  "email": "asd@gmail.com",
+  "name": "asdasd",
+  "id": "1"
+},{
+  "_id": {
+    "$oid": "6329da7dd0b2d95dc90d5f80"
+  },
+  "user": "test user",
+  "email": "gdsgfsdsdgsdg@gmail.com",
+  "id": "2"
+},{
+  "_id": {
+    "$oid": "6329e63ab737a8641669ece2"
+  },
+  "user": "test user",
+  "email": "gdsgfsdsdgsdg@gmail.com"
+},{
+  "_id": {
+    "$oid": "6329e64f3cd1e07f10f6f846"
+  },
+  "user": "test user",
+  "email": "gdsgfsdsdgsdg@gmail.com"
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6329d3b2c8b08378fae01add"
+  },
+  "id": "1",
+  "user": {
+    "id": "1",
+    "name": "Teppo Testaaja",
+    "email": "teppo@asd.fi"
+  },
+  "customer": {
+    "id": "1",
+    "name": "Piha Oy"
+  },
+  "body": "Hello",
+  "created": "2012-01-19 03:14:07.999999"
+},{
+  "_id": {
+    "$oid": "6329d46ec8b08378fae01ae1"
+  },
+  "id": "2",
+  "user": {
+    "id": "1",
+    "name": "Teppo Testaaja",
+    "email": "teppo@asd.fi"
+  },
+  "customer": {
+    "id": "2",
+    "name": "Maki Oy"
+  },
+  "body": "testiviesti",
+  "created": "2013-01-19 03:14:07.999999"
+},{
+  "_id": {
+    "$oid": "6329d5cfc8b08378fae01ae2"
+  },
+  "id": "3",
+  "user": {
+    "id": "2",
+    "name": "Matti 31",
+    "email": "teppo@asd.fi"
+  },
+  "customer": {
+    "id": "2",
+    "name": "Maki Oy"
+  },
+  "body": "testiviesti",
+  "created": "2013-01-19 03:14:07.999999"
+}]

@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6329d8eb08a1d5af35bbbc67"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663697691285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329d8f508a1d5af35bbbc68"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663697701564"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329da646d92a5a081e04707"
+  },
+  "user": "test user",
+  "email": "test@gmail.com"
+},{
+  "_id": {
+    "$oid": "6329e27386fcf0f0afd7bc61"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663700131241"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e27486fcf0f0afd7bc65"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663700132930"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e27686fcf0f0afd7bc68"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663700134017"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e27686fcf0f0afd7bc69"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663700134586"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e27686fcf0f0afd7bc6a"
+  },
+  "name": "testi ukko",
+  "created": {
+    "$date": {
+      "$numberLong": "1663700134948"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e2f9f792a49af5c3b19c"
+  },
+  "name": "testi ukko",
+  "contact_person": "test user",
+  "created": {
+    "$date": {
+      "$numberLong": "1663700265714"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e638b737a8641669ece1"
+  },
+  "name": "testi ukko",
+  "contact_person": "test user",
+  "created": {
+    "$date": {
+      "$numberLong": "1663701096886"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6329e64e3cd1e07f10f6f845"
+  },
+  "name": "testi ukko",
+  "contact_person": "test user",
+  "created": {
+    "$date": {
+      "$numberLong": "1663701118619"
+    }
+  }
+}]
